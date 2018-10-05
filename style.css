@@ -1,0 +1,30 @@
+#laptop-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lcreateLaptops {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.laptop-item {
+    display: flex;
+}
+
+.laptop-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 38%;
+}
+
+.laptop-descr {
+    margin: 2%;
+    width: 58%;
+    text-align: start;
+}
+
+img {
+    width: 100%;
+}
